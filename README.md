@@ -1,5 +1,5 @@
 # Rock, Paper, Scissors
-User will be able to click on either Rock Paper or Scissor button, and the will see a displayed result whether they won lost or tied agaisnt the computer generated move. 
+User will be able to click on either Rock Paper or Scissor button, and the will see a displayed result whether they won, lost, or were tied agaisnt the computer generated move. 
 
 **Link to project:** ![screen shot 2018-07-07 at 11 39 15 am](https://user-images.githubusercontent.com/39247861/42412447-7df422d4-81da-11e8-9f1c-14e87e16bcbb.png)
 
@@ -8,7 +8,7 @@ User will be able to click on either Rock Paper or Scissor button, and the will 
 *HTML 
 *CSS
 *JavaScript
-* Node
+*Node
 
 I ran npm install in the terminal to download node modules, then ran Node server.js in terminal.
 Used HTML to hold content of button and result messages.
